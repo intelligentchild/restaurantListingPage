@@ -1,8 +1,7 @@
 # Restaurant Listing Page
 
+## How to run:
 
-### How to run:
-==============
 1. create database and import restaurant_db.sql
 2. update database information in config.py
 3. update shebang with python installation directory in config.py and page.py
@@ -12,8 +11,7 @@
 
 
 
-### Page photos
-=============
+## Page photos
 
 #### home page:
 ![alt home page picture](https://github.com/intelligentchild/restaurantListingPage/blob/master/Screenshot_2019-02-18%20Restaurant%20Listing.jpg)
