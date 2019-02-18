@@ -1,4 +1,5 @@
 #!/usr/bin/python2.7
+
 import mysql.connector
 import cgi
 import cgitb
@@ -288,7 +289,7 @@ if __name__ == '__main__':
 		text-decoration: none;
 	    }
             .footer{
-                /*margin-top:142px;*/
+                margin-top:142px;
                 clear:both;
                 /*padding: 0px 40% ;*/
             }
@@ -308,6 +309,7 @@ if __name__ == '__main__':
 	     .restaurant-cover div{
 		padding: 20px 0;
 		font-size: larger;
+		max-width: 1200px;
 	     }
 	     body a{
                text-decoration: none;
