@@ -2,7 +2,7 @@
 
 ## How to run:
 
-1. create database and import restaurant_db.sql
+1. create database and import restaurants.sql
 2. update database information in config.py
 3. update shebang with python installation directory in config.py and page.py
 4. place restaurantListingPage files in servers folder
