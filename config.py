@@ -3,7 +3,7 @@
 class Config:
     database	= "restaurant_db"
     user	= "root"
-    password	= "pass"
+    password	= ""
     host	= "localhost"
     pageBaseUrl	= "http://localhost/restaurantApp/"
 
